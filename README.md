@@ -1,1 +1,21 @@
-# credit-card-masking
+# Credit-card-masking
+
+Simple javascript code to hide first 12 digits of a credit card number
+
+### Example
+
+Input:  `453453007778833`
+
+Output: `xxxxxxxxxxxx8833`
+
+### Reboot13
+
+[Telegram](https://telegram.me/reboot13_dev)
+
+[Twitter](https://twitter.com/reboot13_dev)
+
+[Instagram](https://instagram.com/reboot13_dev)
+
+[LinkedIN](https://linkedin.com/in/reboot13)
+
+[Youtube](https://youtube.com/krutikraut)
